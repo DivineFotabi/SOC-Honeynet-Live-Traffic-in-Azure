@@ -1,1 +1,1 @@
-# Networking-Lab
+# SOC + Honeynet (Live Traffic) in Azure
