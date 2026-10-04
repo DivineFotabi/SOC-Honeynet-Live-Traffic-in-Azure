@@ -24,4 +24,16 @@ In this project, I build a mini honeynet in Azure and ingest logs from various r
 - Azure Entra ID Logs.
 - SecurityIncident (Incidents created by Sentinel)
 
-- # Setup
+# Setup
+- Deployed Windows victim VMs in Azure for monitoring.
+- Deployed linux victim VMs in Azure for monitoring.
+- Configured NSG rules to log and monitor external connections.
+- Configured Azure Key Vault for Monitoring.
+- Configure Azure Microsoft Sentinel.
+- Configure Azure Microsoft storage account.
+Enabled log forwarding for:
+Windows Security Logs (Failed logins, logon attempts, privilege escalation).
+Entra ID Logs (Authentication tracking, MFA violations).
+Microsoft Defender Incident.
+Defender for Cloud Security Alerts (Policy compliance monitoring).
+Integrated all logs into Microsoft Sentinel for correlation.
