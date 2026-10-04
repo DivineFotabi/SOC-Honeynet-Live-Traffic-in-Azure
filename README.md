@@ -55,3 +55,6 @@ Incident Response
 
 MITRE ATT&CK
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/e76ca4fc3590739ca4a22d4438a98354128574be/Mitre%20Attack%20ss.png" />
+
+World location
+<img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/39244910410e3694ea8e1b434552eae0f008c4b6/workbook%201.png" /> 
