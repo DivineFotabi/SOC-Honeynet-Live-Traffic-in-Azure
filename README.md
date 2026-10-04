@@ -52,3 +52,6 @@ Brute Force & Privelliage Escallation
 
 Incident Response
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/f5dde6d8f8b15697954e6c2c7705e22473b7a26d/Incident%20Response.png" />
+
+MITRE ATT&CK
+<img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/e76ca4fc3590739ca4a22d4438a98354128574be/Mitre%20Attack%20ss.png" />
