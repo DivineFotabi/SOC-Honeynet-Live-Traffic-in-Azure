@@ -68,3 +68,11 @@ Linux syslogs
 
 Microsoft Defender
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/785348e83c738bbc4df1b3255636f9c7ae7e58fa/Microsoft%20Denfender.png" />
+
+# Security Controls
+The following data shows the metric I measured in the insecured environment for 48hours
+
+SecurityEvents = 165951
+Syslogs = 18126
+Security Alerts = 48
+Security Incident = 40
