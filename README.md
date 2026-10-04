@@ -20,5 +20,8 @@ In this project, I build a mini honeynet in Azure and ingest logs from various r
 - Log Analytics Workspace.
 - Windows Security Logs
 - Linux Event Logs.
+- Azure key vault.
 - Azure Entra ID Logs.
 - SecurityIncident (Incidents created by Sentinel)
+
+- # Setup
