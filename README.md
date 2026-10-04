@@ -49,3 +49,6 @@ SiginLogs
 
 Brute Force & Privelliage Escallation
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/466e39054d9cdd14610465081f46518d988e63c6/Brute%20F%20and%20possibly%20Escallation.png" />
+
+Incident Response
+<img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/f5dde6d8f8b15697954e6c2c7705e22473b7a26d/Incident%20Response.png" />
