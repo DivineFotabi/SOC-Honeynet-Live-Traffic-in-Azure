@@ -36,7 +36,8 @@ In this project, I build a mini honeynet in Azure and ingest logs from various r
   - Entra ID Logs (Authentication tracking, MFA violations).
   - Microsoft Defender Incident.
   - Defender for Cloud Security Alerts (Policy compliance monitoring).
-  - Integrated all logs into Microsoft Sentinel for correlation.
+  - Integrated all logs into Microsoft Sentinel for correlation
+
 Windows Events Logs
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/bbf394430cb9cfa85cd2a9cd9c9055596d0f62b8/KQL%201.png" />
 
