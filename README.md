@@ -46,3 +46,5 @@ Linux syslogs
 
 SiginLogs
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/10d3484d8d6ef08cfd61912959010a1fe4660e57/S.%20LOGS.png" />
+
+Brute Force & Privelliage Escallation
