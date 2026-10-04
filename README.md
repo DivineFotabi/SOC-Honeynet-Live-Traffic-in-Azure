@@ -37,3 +37,5 @@ Entra ID Logs (Authentication tracking, MFA violations).
 Microsoft Defender Incident.
 Defender for Cloud Security Alerts (Policy compliance monitoring).
 Integrated all logs into Microsoft Sentinel for correlation.
+
+<img src="" />
