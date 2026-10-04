@@ -58,3 +58,6 @@ MITRE ATT&CK
 
 World location
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/39244910410e3694ea8e1b434552eae0f008c4b6/workbook%201.png" /> 
+
+Linux syslogs
+<img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/8dd4d78860efcdebe161195e2848cca549f2f21e/Syslogs%202.png" />
