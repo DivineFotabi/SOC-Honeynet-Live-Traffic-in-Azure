@@ -43,3 +43,6 @@ Windows Events Logs
 
 Linux syslogs
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/994c35f98b3a7e55ccda1c11378f4e1eb2e7b165/Syslogs%201.png" />
+
+SiginLogs
+<img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/10d3484d8d6ef08cfd61912959010a1fe4660e57/S.%20LOGS.png" />
