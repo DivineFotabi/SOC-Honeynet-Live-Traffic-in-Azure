@@ -37,5 +37,8 @@ In this project, I build a mini honeynet in Azure and ingest logs from various r
   - Microsoft Defender Incident.
   - Defender for Cloud Security Alerts (Policy compliance monitoring).
   - Integrated all logs into Microsoft Sentinel for correlation.
-
+Windows Events Logs
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/bbf394430cb9cfa85cd2a9cd9c9055596d0f62b8/KQL%201.png" />
+
+Linux syslogs
+<img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/994c35f98b3a7e55ccda1c11378f4e1eb2e7b165/Syslogs%201.png" />
