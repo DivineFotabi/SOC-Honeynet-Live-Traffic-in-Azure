@@ -31,11 +31,11 @@ In this project, I build a mini honeynet in Azure and ingest logs from various r
 - Configured Azure Key Vault for Monitoring.
 - Configure Azure Microsoft Sentinel.
 - Configure Azure Microsoft storage account.
-Enabled log forwarding for:
-  -Windows Security Logs (Failed logins, logon attempts, privilege escalation).
-  -Entra ID Logs (Authentication tracking, MFA violations).
-  -Microsoft Defender Incident.
-  -Defender for Cloud Security Alerts (Policy compliance monitoring).
-  -Integrated all logs into Microsoft Sentinel for correlation.
+- Enabled log forwarding for:
+  - Windows Security Logs (Failed logins, logon attempts, privilege escalation).
+  - Entra ID Logs (Authentication tracking, MFA violations).
+  - Microsoft Defender Incident.
+  - Defender for Cloud Security Alerts (Policy compliance monitoring).
+  - Integrated all logs into Microsoft Sentinel for correlation.
 
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/bbf394430cb9cfa85cd2a9cd9c9055596d0f62b8/KQL%201.png" />
