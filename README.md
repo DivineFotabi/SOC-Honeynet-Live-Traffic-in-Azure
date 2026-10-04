@@ -72,7 +72,8 @@ Microsoft Defender
 # Security Controls
 The following data shows the metric I measured in the insecured environment for 48hours
 
-SecurityEvents = 165951
-Syslogs = 18126
-Security Alerts = 48
-Security Incident = 40
+SecurityEvents = 165951 
+Syslogs        =18126  
+Security Alerts = 48    
+Security Incident = 40  
+
