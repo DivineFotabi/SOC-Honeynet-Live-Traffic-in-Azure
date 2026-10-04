@@ -61,3 +61,6 @@ World location
 
 Linux syslogs
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/8dd4d78860efcdebe161195e2848cca549f2f21e/Syslogs%202.png" />
+
+Microsoft Defender
+<img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/785348e83c738bbc4df1b3255636f9c7ae7e58fa/Microsoft%20Denfender.png" />
