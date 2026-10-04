@@ -48,3 +48,4 @@ SiginLogs
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/10d3484d8d6ef08cfd61912959010a1fe4660e57/S.%20LOGS.png" />
 
 Brute Force & Privelliage Escallation
+<img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/466e39054d9cdd14610465081f46518d988e63c6/Brute%20F%20and%20possibly%20Escallation.png" />
