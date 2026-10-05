@@ -80,3 +80,11 @@ Security Alerts = 48
 
 Security Incident = 40  
 
+# Conclusion
+
+- Successfully built an Azure-based SOC & Honeynet for real-world attack detection.
+- Integrated log sources into a Log Analytics workspace and configured Microsoft Sentinel for threat detection and incident management.
+- Simulated a Windows brute-force attack and investigated the incident using Sentinel logs.
+- Utilized Microsoft Defender Threat Intelligence (MDTI) to enrich threat investigations.
+- Measured security metrics
+- Continuous monitoring is essential, as legitimate user activity could generate additional security events, requiring ongoing refinement of detection rules and response strategies.
