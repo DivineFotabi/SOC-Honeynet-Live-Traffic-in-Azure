@@ -38,47 +38,46 @@ In this project, I build a mini honeynet in Azure and ingest logs from various r
   - Defender for Cloud Security Alerts (Policy compliance monitoring).
   - Integrated all logs into Microsoft Sentinel for correlation
 
-Windows Events Logs
+### Windows Events Logs
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/bbf394430cb9cfa85cd2a9cd9c9055596d0f62b8/KQL%201.png" />
 
-Linux syslogs
+### Linux syslogs
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/994c35f98b3a7e55ccda1c11378f4e1eb2e7b165/Syslogs%201.png" />
 
-SiginLogs
+### SiginLogs
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/10d3484d8d6ef08cfd61912959010a1fe4660e57/S.%20LOGS.png" />
 
-Brute Force & Privelliage Escallation
+### Brute Force & Privelliage Escallation
 - Kali Linux executed an RDP brute-force attack against a Windows VM.
 - Sentinel generated an alert for multiple failed login attempts (Event ID 4625).
 - Successful login achieved using brute force, triggering an alert in Defender for Cloud.
 
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/466e39054d9cdd14610465081f46518d988e63c6/Brute%20F%20and%20possibly%20Escallation.png" />
 
-Incident Response
+### Incident Response
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/f5dde6d8f8b15697954e6c2c7705e22473b7a26d/Incident%20Response.png" />
 
-MITRE ATT&CK
+### MITRE ATT&CK
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/e76ca4fc3590739ca4a22d4438a98354128574be/Mitre%20Attack%20ss.png" />
 
-World location
+### World location
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/39244910410e3694ea8e1b434552eae0f008c4b6/workbook%201.png" /> 
 
-Linux syslogs
+### Linux syslogs
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/8dd4d78860efcdebe161195e2848cca549f2f21e/Syslogs%202.png" />
 
-Microsoft Defender
+### Microsoft Defender
 <img src="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure/blob/785348e83c738bbc4df1b3255636f9c7ae7e58fa/Microsoft%20Denfender.png" />
 
 # Security Controls
 The following data shows the metric I measured in the insecured environment for 48hours
 
-SecurityEvents = 165951 
+| SecurityEvents| Syslogs | Security Alerts | Security Incident |
+|---------------|---------|-----------------|-------------------|
+| 165951 | 18126 | 48 | 40|
+ 
 
-Syslogs        =18126  
-
-Security Alerts = 48    
-
-Security Incident = 40  
+    
 
 # Conclusion
 
